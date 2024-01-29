@@ -1,0 +1,24 @@
+{
+  "name": "testwordcounter",
+  "version": "1.0.0",
+  "description": "Lumu entrance evaluation to automate the test to the page https://wordcounter.net/",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:chrome": "cypress run --browser chrome"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "e2e",
+    "Cypress"
+  ],
+  "author": "oscaralejandroflorez@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "cypress-mochawesome-reporter": "^3.8.1"
+  }
+}
