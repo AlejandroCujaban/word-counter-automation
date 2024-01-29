@@ -35,7 +35,3 @@ Este comando ejecutará las pruebas de Cypress y te mostrará los resultados en 
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o quieres mejorar las pruebas, no dudes en crear un pull request o abrir un issue en el repositorio.
-
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](LICENSE).
